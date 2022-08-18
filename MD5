@@ -1,0 +1,9 @@
+b1534b199b9962b3787ebb5b955758ea *DESCRIPTION
+f9496e9ad91f7d30bafcd2c0538f69c0 *LICENSE
+219a3917fabca4937b0ec2c702905282 *NAMESPACE
+e2ebb27274d38bb18d4bf243a46bbbe1 *R/Librino_N.R
+cecf8f4cbd71e371ef01a491456e83c2 *R/intersections_two_three_circles.R
+04eff3c7ea4515bc5b18f3e4db2238cd *R/validate_Librino.R
+48219e8b2df3eae983951bdef8c37816 *man/Librino_N.Rd
+f225fc3084034a5ffeba86cabc8bc0c8 *man/intersection_two_circles.Rd
+50417cb911860a6cf18b25decee3e344 *man/validate_Librino.Rd
